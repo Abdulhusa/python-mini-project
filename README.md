@@ -6,7 +6,7 @@
 The Python Password Manager is a secure, command-line based application that allows users to store, retrieve, update, and delete their passwords. The application uses SQLite as the database backend for persistent storage of passwords.
 
 <p align="center">
-  <img src="https://cyberpedia.reasonlabs.com/IMG/password%20generator.jpg" alt="Password Generator" width="500"/>
+  <img src="https://cyberpedia.reasonlabs.com/IMG/password%20generator.jpg" alt="Password Generator" width="510"/>
 </p>
 
 ### Project Structure
